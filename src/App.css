@@ -1,0 +1,27 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+button {
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.error-message {
+  color: red;
+  padding: 20px;
+  background-color: #fdd;
+  border: 1px solid #f00;
+  border-radius: 4px;
+  margin: 20px;
+}

@@ -1,0 +1,12 @@
+/* Styles for the MatchesScreen component */
+.matches-screen table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .matches-screen th, .matches-screen td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
